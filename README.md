@@ -1,16 +1,18 @@
-### Hi there 👋
+I'm a seasoned software engineer and engineering manager with highly varied technical experience, including:
 
-<!--
-**jspahrsummers/jspahrsummers** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- Mobile and desktop development
+- Full stack development
+- Backend distributed systems
+- Functional programming
+- Reactive programming
+- Programming language development and tooling
+- Machine learning
+- Financial automation
+- Cryptocurrency/decentralized finance
+- Unity game development
 
-Here are some ideas to get you started:
+As an engineering manager and a technical lead, I emphasize coaching and mentoring, and sharing mental models to help everyone level up. I also care strongly about how companies and teams organize themselves and their work, and am deeply familiar with the common growing pains.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I've done a little bit of everything, and if there's something I haven't done before, I'll learn it.
+
+**I'm available for remote contract work in various formats. Please email [justin@jspahrsummers.com](mailto:justin@jspahrsummers.com) and we can discuss more.**
