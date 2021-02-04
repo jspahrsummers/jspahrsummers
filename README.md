@@ -1,3 +1,4 @@
+# About
 I'm a seasoned software engineer and engineering manager with highly varied technical experience, including:
 
 - Mobile and desktop development
