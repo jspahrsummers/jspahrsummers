@@ -12,4 +12,4 @@ In a past life, I contributed significantly to some open source projects in the 
 * [Squirrel](https://github.com/Squirrel/Squirrel.Mac): robust software update framework for Mac apps
 * [Carthage](https://github.com/Carthage/Carthage): a decentralized dependency manager
 
-You can contact me via any of the social links to the left.
+I may not be able to respond to pings and reachouts—sorry in advance.
