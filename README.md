@@ -2,7 +2,7 @@
 
 Hi, I'm Justin! 👋
 
-I'm very excited and very worried about the potential of AI, which is why I work at [Anthropic PBC](https://anthropic.com). I'm currently part of the team developing and maintaining the [Model Context Protocol](https://modelcontextprotocol.io). _Note that my opinions don't reflect those of my employer._
+I'm very excited and very worried about the potential of AI, which is why I work at [Anthropic PBC](https://anthropic.com), where I was involved in developing and launching the [Model Context Protocol](https://modelcontextprotocol.io). _Note that my opinions don't reflect those of my employer._
 
 Previously, I worked at various other companies—notably Meta and GitHub—and have done some independent consulting as well.
 
