@@ -2,9 +2,9 @@
 
 Hi, I'm Justin! 👋
 
-I'm very excited and very worried about the potential of AI, which is why I worked at [Anthropic PBC](https://anthropic.com), where I was involved in developing and launching the [Model Context Protocol](https://modelcontextprotocol.io).
+I'm currently doing independent game development as @fernforestgames.
 
-Previously, I worked at various other companies—notably Meta and GitHub—and have done some independent consulting as well.
+Previously, I worked at [Anthropic PBC](https://anthropic.com), where I was involved in developing and launching the [Model Context Protocol](https://modelcontextprotocol.io). Before that, I was at various other companies—notably Meta and GitHub—and did some independent consulting as well.
 
 In a past life, I contributed significantly to some open source projects in the iOS and macOS ecosystem:
 * [ReactiveCocoa](https://reactivecocoa.io/): reactive programming in Swift and Objective-C
