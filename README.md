@@ -2,7 +2,7 @@
 
 Hi, I'm Justin! 👋
 
-I'm currently doing independent game development as @fernforestgames.
+I'm currently doing independent game development as [**@fernforestgames**](https://github.com/fernforestgames).
 
 Previously, I worked at [Anthropic PBC](https://anthropic.com), where I was involved in developing and launching the [Model Context Protocol](https://modelcontextprotocol.io). Before that, I was at various other companies—notably Meta and GitHub—and did some independent consulting as well.
 
